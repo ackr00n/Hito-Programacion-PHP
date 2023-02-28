@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+#tabla {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mb-3{
+    padding: 10px;
+    justify-content: baseline;
+    text-align: center;
+    align-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+  
+}
+#menu{
+    border: 1px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#login{
+
+    
+    padding: 10px;
+    justify-content: baseline;
+    text-align: center;
+    align-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+form{
+    border: 1px solid black;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 20px;
+
+}
